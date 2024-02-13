@@ -1,0 +1,13 @@
+Completed Features:
+    1. Play/Pause
+    2. File Selection
+    3. Close file
+    4. Quit Program
+
+Future Additions:
+    1. Fast Forward/ Rewind
+    2. Time interface
+    3. Volume Mixer
+    4. Playback Scrubber
+    5. Interface Improvements
+    6. Drag and Drop
