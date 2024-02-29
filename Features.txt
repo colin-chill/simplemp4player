@@ -3,11 +3,11 @@ Completed Features:
     2. File Selection
     3. Close file
     4. Quit Program
+    5. Time interface
+    6. Fast Forward/ Rewind
+    7. Volume Mixer
 
 Future Additions:
-    1. Fast Forward/ Rewind
-    2. Time interface
-    3. Volume Mixer
-    4. Playback Scrubber
-    5. Interface Improvements
-    6. Drag and Drop
+    1. Playback Scrubber
+    2. Interface Improvements
+    3. Drag and Drop
