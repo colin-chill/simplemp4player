@@ -4,3 +4,7 @@ Features:
  - Play/Pause/Resume
  - Close files to select new one
  - Quit the Program
+ - Volume Slider
+ - Time Interface
+ - Progress Bar
+ - Fast Forwards and Backwards
