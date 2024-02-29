@@ -8,4 +8,6 @@ Features:
  - Time Interface
  - Progress Bar
  - Fast Forwards and Backwards
- -Search for Youtube videos and download them to watch
+ - Search for Youtube videos and download them to watch
+  - To incorporate this into your code:
+  - Install necessary dependencies: youtube-search, pytube
