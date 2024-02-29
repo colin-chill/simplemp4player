@@ -7,6 +7,7 @@ import vlc
 from file_dialogs import select_file
 from widgets import create_widgets
 from functions import play_video, pause_video, close_video, quit_program, update_time, format_time, update_time_label, skip_backward, skip_forward, set_volume
+from video_search import search_and_download
 class Mp4Player(tk.Tk):
     """
     A simple MP4 player application using tkinter and VLC.
@@ -46,6 +47,7 @@ class Mp4Player(tk.Tk):
     skip_forward = skip_forward
     skip_backward = skip_backward
     set_volume = set_volume
+    search_and_download = search_and_download
 
     def format_time(self, seconds):
         """

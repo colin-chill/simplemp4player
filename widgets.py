@@ -101,6 +101,17 @@ def create_widgets(self):
     )
     self.skip_forward_button.pack(side=tk.LEFT, padx=10, pady=5)
 
+    # Search and Download button
+    self.search_download_button = tk.Button(
+        self.control_buttons_frame,
+        text="Search and Download",
+        font=("Arial", 12, "bold"),
+        bg="#FF5722",
+        fg="white",
+        command=self.search_and_download,
+    )
+    self.search_download_button.pack(side=tk.LEFT, padx=10, pady=5)
+
     # Button for closing current video to allow for new file selection
     self.close_button = tk.Button(
         self.control_buttons_frame,
