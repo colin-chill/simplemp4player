@@ -8,3 +8,4 @@ Features:
  - Time Interface
  - Progress Bar
  - Fast Forwards and Backwards
+ -Search for Youtube videos and download them to watch
